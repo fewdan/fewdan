@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-; ![](https://raw.githubusercontent.com/fewdan/fewdan/main/assets/github-contribution-grid-snake.svg)              
+;![](https://raw.githubusercontent.com/fewdan/fewdan/main/assets/github-contribution-grid-snake.svg)              
