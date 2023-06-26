@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```
 ![](https://raw.githubusercontent.com/fewdan/fewdan/main/assets/github-contribution-grid-snake.svg)              
+```
